@@ -1,2 +1,2 @@
-# clock_1
-A digital clock
+# Python-Clock
+Python Clock in Pygame
